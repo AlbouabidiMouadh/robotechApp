@@ -4,7 +4,7 @@ body {
 .container {
     background-color: rgb(70, 114, 197);
     width: 600px;
-    height: 500px;
+    min-height: 400px;
     text-align: center;
     margin: auto;
     margin-top: 10%;
@@ -37,4 +37,11 @@ body {
     /* margin-top: 50px; */
     text-decoration: none;
     color: white;
+}
+
+.logos {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+
 }
