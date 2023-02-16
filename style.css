@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(207, 201, 201);
+}
+.container {
+    background-color: rgb(70, 114, 197);
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.Title {
+    padding-top: 15px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.desc {
+    font-size: large;
+    padding-top: 25px;
+}
+
+.down {
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button a {
+    background-color: black;
+    border: solid 2px black;
+    /* width: 100px; */
+    /* height: 50px; */
+    padding: 10px;
+    border-radius: 5px;
+    /* margin-left: 240px; */
+    /* margin-top: 50px; */
+    text-decoration: none;
+    color: white;
+}
